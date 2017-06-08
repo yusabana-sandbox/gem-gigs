@@ -11,4 +11,7 @@ gem 'tapp-awesome_print'
 group :try do
   # promptをかんたんに実装する
   gem 'tty-prompt'
+
+  # diffを取れるツール
+  gem 'diffy'
 end
