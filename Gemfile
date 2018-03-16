@@ -14,4 +14,7 @@ group :try do
 
   # diffを取れるツール
   gem 'diffy'
+
+  # datasets provide
+  gem 'red-datasets'
 end

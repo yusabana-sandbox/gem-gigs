@@ -21,6 +21,7 @@ GEM
     pry-doc (0.13.3)
       pry (~> 0.11)
       yard (~> 0.9.11)
+    red-datasets (0.0.2)
     tapp (1.5.1)
       thor
     tapp-awesome_print (1.0.1)
@@ -54,6 +55,7 @@ DEPENDENCIES
   pry
   pry-byebug
   pry-doc
+  red-datasets
   tapp-awesome_print
   tty-prompt
 
