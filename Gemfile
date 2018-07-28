@@ -8,6 +8,8 @@ gem 'awesome_print'
 gem 'tapp-awesome_print'
 
 
+gem 'benchmark_driver'
+
 group :try do
   # promptをかんたんに実装する
   gem 'tty-prompt'
