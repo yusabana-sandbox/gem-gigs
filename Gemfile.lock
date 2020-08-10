@@ -45,7 +45,7 @@ GEM
       wisper (~> 2.0.0)
     tty-screen (0.6.4)
     wisper (2.0.0)
-    yard (0.9.12)
+    yard (0.9.25)
 
 PLATFORMS
   ruby
