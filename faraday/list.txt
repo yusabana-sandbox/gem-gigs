@@ -1,0 +1,5 @@
+#/hoge
+#/fuga
+/2014/03/frontend-web-server/
+/2013/12/rake-environment-args/
+http://blog.takapra.com/2013/12/rals-sprint1/
